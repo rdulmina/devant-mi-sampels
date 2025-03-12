@@ -12,6 +12,9 @@
     <responseVariable >http_get_1</responseVariable>
     <overwriteBody >true</overwriteBody>
             </http.get>
+            <payloadFactory media-type="json" template-type="default">
+                <format>{"name": "Dulmina"}</format>
+            </payloadFactory>
             <respond/>
         </inSequence>
         <faultSequence>
