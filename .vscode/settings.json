@@ -1,0 +1,5 @@
+{
+  "MI.Scope": "integration-as-api",
+  "MI.SERVER_PATH": "/Users/dulminakodagoda/.wso2-mi/micro-integrator/wso2mi-4.4.0",
+  "MI.JAVA_HOME": "/opt/homebrew/opt/openjdk@21"
+}
