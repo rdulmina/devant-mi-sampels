@@ -2,12 +2,12 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.example</groupId>
-  <artifactId>mi1</artifactId>
+  <groupId>com.microintegrator.projects</groupId>
+  <artifactId>testmi</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
-  <name>mi1</name>
-  <description>mi1</description>
+  <name>testmi</name>
+  <description>testmi</description>
   <repositories>
     <repository>
         <id>wso2-nexus</id>
@@ -383,7 +383,7 @@
   </build>
   <properties>
     <projectType>integration-project</projectType>
-    <uuid>08d79f01-ce5e-42c2-bd11-f94de6e8af27</uuid>
+    <uuid>24e91998-2564-44be-af05-f5b2d7e48d30</uuid>
     <!-- <archiveLocation>configure a custom target directory for CAPP</archiveLocation> -->
     <keystore.type>JKS</keystore.type>
     <keystore.name>wso2carbon.jks</keystore.name>
